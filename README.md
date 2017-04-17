@@ -1,4 +1,4 @@
-# pythonmixed
+# python
 学习python中遇到的一些代码
 
 17-04-17
